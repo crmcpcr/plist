@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.16.19.216:8050/ngs/app_release/zhongzai.ipa</string>
+					<string>https://crmuat.cpcr.com.cn:8443/ngs/app_release/zhongzai.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
