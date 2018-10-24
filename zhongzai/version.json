@@ -1,0 +1,10 @@
+{
+  "code":1,
+  "message":"SUCCESS",
+  "value":{
+    "androidVersion":40,
+    "iosVersion":90,
+    "androidDownloadURL":"https://172.30.1.131:8443/ngs/app_release/zhongzai.apk",
+    "iosDownloadURL":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/EliteCRM/plist/master/zhongzai.plist"
+  }
+}

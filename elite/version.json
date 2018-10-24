@@ -1,0 +1,10 @@
+{
+  "code":1,
+  "message":"SUCCESS",
+  "value":{
+    "androidVersion":37,
+    "iosVersion":91,
+    "androidDownloadURL":"http://dev.elitecrm.com/ngs/app_release/ngsrn.apk",
+    "iosDownloadURL":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/EliteCRM/plist/master/ngsrn.plist"
+  }
+}
